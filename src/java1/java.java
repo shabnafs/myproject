@@ -9,7 +9,6 @@ public class java {
 	System.out.println("hi");
 	System.out.println("3.92.191.220");
 	
-	
 	}
 	
 
